@@ -1,0 +1,23 @@
+{
+  "name": "tests-mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimacsx/node-tests-mocha-chai.git"
+  },
+  "author": "Maximino Peralta Jiménez <maximino.peralta5791@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimacsx/node-tests-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/jimacsx/node-tests-mocha-chai#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
